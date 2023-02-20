@@ -2,7 +2,7 @@
 생물안전 통합관리시스템 사이트 이용 안내 페이지입니다.  
 
 
-### [○ 회원가입 방법](https://sooyeon1022.github.io/-/)  ○ 사이트 상단 메뉴 안내
+### ○ [회원가입 방법](https://sooyeon1022.github.io/-/)  ○ [사이트 상단 메뉴 안내]
   
  **역할(권한) 안내**
 ![그림2](https://user-images.githubusercontent.com/125325764/219524906-49462f50-9bc3-44b8-b82c-b4f3292f2b6d.png)
